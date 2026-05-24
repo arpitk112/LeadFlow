@@ -77,6 +77,21 @@ npm install
 npm run dev
 ```
 
+## Environment Variables
+
+### Backend (.env)
+
+```env
+PORT=5000
+MONGO_URI=your_mongodb_connection_string
+```
+
+### Frontend (.env)
+
+```env
+VITE_API_URL=http://localhost:5000/api
+```
+
 Frontend will start at **http://localhost:5173**
 
 ---
@@ -130,7 +145,19 @@ Frontend will start at **http://localhost:5173**
 
 Validation runs on both the client (React) and server (Express middleware) layers.
 
-## Project Overview
+## Live Demo
 
-<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/cfc0aba1-e276-413e-94e8-99c05308c9b3" />
+Frontend: [https://your-frontend-url.vercel.app](https://lead-flow-online.vercel.app/)
+
+Backend API: [https://your-backend-url.onrender.com](https://leadflow-lepf.onrender.com)
+
+## Screenshots
+
+### Desktop View
+<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/1795cce8-0ce4-459b-bd7d-9bc8f81b1d86" />
+
+
+### Mobile View
+<img width="382" height="827" alt="image" src="https://github.com/user-attachments/assets/5825ec64-80b6-4afd-98a0-ecacf3fc6a3e" />
+
 
