@@ -147,9 +147,9 @@ Validation runs on both the client (React) and server (Express middleware) layer
 
 ## Live Demo
 
-Frontend: [https://your-frontend-url.vercel.app](https://lead-flow-online.vercel.app/)
+Frontend: [https://lead-flow-online.vercel.app](https://lead-flow-online.vercel.app/)
 
-Backend API: [https://your-backend-url.onrender.com](https://leadflow-lepf.onrender.com)
+Backend API: [https://leadflow-lepf.onrender.com](https://leadflow-lepf.onrender.com)
 
 ## Screenshots
 
