@@ -129,23 +129,3 @@ Frontend will start at **http://localhost:5173**
 | Source | Required, one of: Website, Facebook, Google, Referral |
 
 Validation runs on both the client (React) and server (Express middleware) layers.
-
----
-
-## Assumptions
-
-- Phone number validation uses the Indian standard of 10 digits
-- Timestamps (`createdAt`, `updatedAt`) are added automatically by MongoDB/Mongoose
-- No authentication is implemented (out of scope for this assignment)
-- The `source` dropdown is fixed to the four options specified in the assignment
-
----
-
-## Bonus Features (beyond assignment requirements)
-
-- MongoDB Atlas integration (instead of in-memory or JSON file)
-- DELETE endpoint for removing leads
-- Color-coded source tags in the table
-- Mobile-responsive design
-- Global error handler middleware on the backend
-- Two-layer validation (client + server)
