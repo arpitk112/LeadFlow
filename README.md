@@ -129,3 +129,8 @@ Frontend will start at **http://localhost:5173**
 | Source | Required, one of: Website, Facebook, Google, Referral |
 
 Validation runs on both the client (React) and server (Express middleware) layers.
+
+##Project Overview
+
+<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/cfc0aba1-e276-413e-94e8-99c05308c9b3" />
+
